@@ -1,4 +1,4 @@
-# HealtApp
+# HealhtApp
 
  The application is made for helping the people regarding some notions of healt.
 
